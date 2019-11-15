@@ -3,3 +3,4 @@ title: "Prediction of turbulent heat transfer using convolutional neural network
 # THT-CNN
 ---
 
+![graphical abstract](graphical abstract.jpg)
