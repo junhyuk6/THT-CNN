@@ -9,4 +9,4 @@ As shown in figure, we applied convolutional neural network(CNN) to the predicti
 
 Code and some data will be provided in this site soon. Our code is written in tensorflow library. In the code, minor things are omitted for simplicity. Data are composed of 2D flow fields including du/dy, dw/dy, dT/dy, and p.
 
-If you have any questions about the article and the code, please email <junhyuk6@yonsei.ac.kr>.
+If you have any questions about the article and the code, please email <junhyuk6@yonsei.ac.kr> or <clee@yonsei.ac.kr>.
