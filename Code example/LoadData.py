@@ -29,4 +29,4 @@ def LoadData(nField,iniField,intervalField):
     return Data
 
 nTrainField = 100
-TrainData = LoadTrainData(nTrainField,0,1)
+TrainData = LoadTrainData(nTrainField,3000,4)
